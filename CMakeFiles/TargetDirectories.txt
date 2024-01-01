@@ -1,0 +1,5 @@
+/Users/zero_two/Desktop/SuperVPN/CMakeFiles/supervpn.dir
+/Users/zero_two/Desktop/SuperVPN/CMakeFiles/edit_cache.dir
+/Users/zero_two/Desktop/SuperVPN/CMakeFiles/rebuild_cache.dir
+/Users/zero_two/Desktop/SuperVPN/pybind11/CMakeFiles/edit_cache.dir
+/Users/zero_two/Desktop/SuperVPN/pybind11/CMakeFiles/rebuild_cache.dir
